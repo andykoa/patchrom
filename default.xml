@@ -18,4 +18,5 @@
   <project path="vivo" name="MiCode/patchrom-vivo" />
   <project path="saga" name="MiCode/patchrom-saga" />
   <project path="ace" name="ymdzq/patchrom-ace" />
+  <project path="gnote" name="ymdzq/patchrom-gnote" />
 </manifest>
